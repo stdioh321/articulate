@@ -1,4 +1,6 @@
 
+
+
 # Articulate
 
 A sample application built with [Spring Boot](http://projects.spring.io/spring-boot/) that demonstrates capabilities of Cloud Foundry.
